@@ -52,4 +52,4 @@
 - **AlphaPose**  
 *Множественное оценивание поз людей на "сцене".*  
     - [Github](https://github.com/MVIG-SJTU/AlphaPose)
-    - [Описание](https://www.mvig.org/research/alphapose.html)
+    - [Paper](https://arxiv.org/abs/2211.03375)
