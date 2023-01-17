@@ -3,6 +3,7 @@
 ## Оглавление
 - [Классические решения](#Классические-решения)
 - [Нейронные сети](#Нейронные-сети)
+    - [Универсальные сверточные](#Универсальные-сверточные)
     - [Yolo](#Yolo-(You-Only-Look-Once))
     - [Трансформеры](#Трансформеры)
     - [Diffusion-модели](#Diffusion-модели)
@@ -26,6 +27,11 @@
 [документация](https://xgboost.readthedocs.io/en/stable/)
 ---
 ## Нейронные сети
+### Универсальные сверточные
+- **EfficientNet**  
+*Из описания: "тщательная балансировка глубины, ширины и разрешения сети может привести к повышению производительности"*  
+    - [Github (pytorch)](#https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Classification/ConvNets/efficientnet)
+    - [Paper](#https://arxiv.org/abs/1905.11946)
 ### Yolo (You Only Look Once)  
 *Обнаружение и классификации объектов в реальном масштабе времени.*  
 - **Yolo v7**
