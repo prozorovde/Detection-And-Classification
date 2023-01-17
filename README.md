@@ -28,10 +28,18 @@
 ---
 ## Нейронные сети
 ### Универсальные сверточные
+- **RegNet**  
+*Модификация ResNet с добавлением механизма памяти*  
+    - [Pytorch code](https://pytorch.org/vision/main/models/regnet.html)
+    - [Paper (2021.01)](https://arxiv.org/abs/2101.00590)
 - **EfficientNet**  
 *Из описания: "тщательная балансировка глубины, ширины и разрешения сети может привести к повышению производительности"*  
     - [Github (pytorch)](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Classification/ConvNets/efficientnet)
-    - [Paper](https://arxiv.org/abs/1905.11946)
+    - [Paper (2020.09)](https://arxiv.org/abs/1905.11946)
+- **SKResNeXt**  
+*CNN с адаптивной регулировкой размера рецептивного поля*  
+    - [Example (HuggingFace)](https://huggingface.co/docs/timm/models/skresnext)
+    - [Paper (2019.03)](https://arxiv.org/abs/1903.06586v2)
 ### Yolo (You Only Look Once)  
 *Обнаружение и классификации объектов в реальном масштабе времени.*  
 - **Yolo v7**
