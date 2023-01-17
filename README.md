@@ -1,5 +1,12 @@
 # Обнаружение и классификация
 
+## Оглавление
+- [Классические решения](#Классические-решения)
+- [Нейронные сети](#Нейронные-сети)
+    - [Yolo](#Yolo-(You-Only-Look-Once))
+    - [Трансформеры](#Трансформеры)
+    - [Diffusion-модели](#Diffusion-модели)
+    - [Оценка позы](#Оценка-позы)
 ## Классические решения
 - **k-ближайших соседей (K-Nearest Neighbors)**  
 [документация scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
@@ -48,7 +55,7 @@
 *DiffusionDet - одна из первых диффузионных моделей для обнаружения объектов.*  
     - [Github](https://github.com/shoufachen/diffusiondet)
     - [Paper (2022.11)](https://arxiv.org/abs/2211.09788)
-### Оценка позы/положения
+### Оценка позы
 - **AlphaPose**  
 *Множественное оценивание поз людей на "сцене".*  
     - [Github](https://github.com/MVIG-SJTU/AlphaPose)
