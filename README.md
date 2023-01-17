@@ -4,7 +4,7 @@
 - [Классические решения](#Классические-решения)
 - [Нейронные сети](#Нейронные-сети)
     - [Универсальные сверточные](#Универсальные-сверточные)
-    - [Yolo (You Only Look Once)](#Yolo-\(You-Only-Look-Once\))
+    - [Yolo (You Only Look Once)](#Yolo)
     - [Трансформеры](#Трансформеры)
     - [Diffusion-модели](#Diffusion-модели)
     - [Оценка позы](#Оценка-позы)
@@ -34,7 +34,7 @@
 | **EfficientNet** | *Из описания: "тщательная балансировка глубины, ширины и разрешения сети может привести к повышению производительности"* | [Github (pytorch)](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Classification/ConvNets/efficientnet) <br/> [Paper (2020.09)](https://arxiv.org/abs/1905.11946) |
 | **SKResNeXt** | *CNN с адаптивной регулировкой размера рецептивного поля* | [Example (HuggingFace)](https://huggingface.co/docs/timm/models/skresnext) <br/> [Paper (2019.03)](https://arxiv.org/abs/1903.06586v2) |
 
-### Yolo (You Only Look Once)
+### Yolo
 | Нейросеть | Примечание |         Ссылки         |
 |-----------|------------|--------|
 | **Yolo v7** | *Обнаружение и классификации объектов в реальном масштабе времени.*          | [Github](https://github.com/wongkinyiu/yolov7) <br/> [Paper](https://arxiv.org/abs/2207.02696v1) <br/> [Dataset](https://paperswithcode.com/dataset/coco) |
