@@ -10,7 +10,7 @@
     - [Оценка позы](#Оценка-позы)
 
 ## Классические решения
-- **Метод Виолы — Джонса и каскады Хаара**
+- **Метод Виолы — Джонса и каскады Хаара**  
 [документация OpenCV](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 - **k-ближайших соседей (K-Nearest Neighbors)**  
 [документация scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
