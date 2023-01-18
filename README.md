@@ -37,8 +37,10 @@
 | **CSPResNeXt** | *CNN со стратегией CSPNet, примененной к ResNeXt* | [Paper (2019.11)](https://arxiv.org/abs/1911.11929v1) <br/> [Example (pytorch)](https://rwightman.github.io/pytorch-image-models/models/csp-resnext/) |
 | **CSPNet** | *CNN со стратегией CSPNet, примененной к ResNet* | [Paper (2019.11)](https://arxiv.org/abs/1911.11929v1) <br/> [Example (HuggingFace)](https://huggingface.co/docs/timm/models/csp-resnet) |
 | **SEResNeXt** | *ResNeXt - модифицированный вариант ResNet. Улучшение достигается за счет введения блоков адаптивной калибровки каналов сверточных фильтров.* | [Paper (2019.05)](https://arxiv.org/abs/1709.01507v4) <br/> [Example (pytorch)](https://rwightman.github.io/pytorch-image-models/models/seresnext/) |
+| **FBNet** | *FBNet — оптимизированная MobileNetv2 с помощью метода поиска нейросетевой архитектуры DNAS.* | [Paper (2019.05)](https://arxiv.org/pdf/1812.03443v3.pdf) <br/> [Example (HuggingFace)](https://huggingface.co/docs/timm/models/fbnet) |
 | **SKResNeXt** | *CNN с адаптивной регулировкой размера рецептивного поля* | [Paper (2019.03)](https://arxiv.org/abs/1903.06586v2) <br/> [Example (HuggingFace)](https://huggingface.co/docs/timm/models/skresnext) |
 | **DPN** | *Dual Path Networks - сети, использующие идеи ResNet и DenseNet одновременно.* | [Paper (2017.08)](https://arxiv.org/abs/1707.01629) | [Example (HuggingFace)](https://huggingface.co/docs/timm/models/dpn) |
+| **MobileNet** | *Семейство моделей с оптимизированной архитектурой для мобильных приложений* | [Paper (2017.04)](https://arxiv.org/abs/1704.04861) <br/> [Example (pytorch)](https://rwightman.github.io/pytorch-image-models/models/mobilenet-v3/) |
 | **ResNeXt** | *Модифицированный вариант ResNet* | [Paper (2017.04)](https://arxiv.org/abs/1611.05431) <br/> [Example (pytorch)](https://pytorch.org/hub/pytorch_vision_resnext/) |
 | **ResNet** | *Т.н. "остаточная" сверточная нейросеть. Базовый вариант для начальных экспериментов.* | [Paper (2015.12)](https://arxiv.org/abs/1512.03385) <br/> [Example (pytorch)](https://pytorch.org/hub/pytorch_vision_resnet/) |
 
